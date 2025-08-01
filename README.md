@@ -103,9 +103,11 @@ will build and launch every service container.
   ```
 - Verify individual service endpoints as documented in each service's README.md.
 
-## Contributing
-
-Contributions are welcome. Please submit a pull request with a detailed description of your changes.
+## Contributers
+Ishan 
+Pratham 
+J.O. Shivnesh
+Mohith
 
 ## License
 
